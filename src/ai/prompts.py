@@ -57,6 +57,7 @@ Consider:
 - Relevance to software engineering, AI/ML, and systems research
 - Community discussion quality: insightful comments, diverse viewpoints, and debates increase value
 - Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
+- **3D World & AI intersection (score +1 to +2 bonus)**: Content connecting AI/ML with three-dimensional perception, understanding, or generation of the physical world deserves extra weight. This includes — but is not limited to — 3D reconstruction and scene understanding (NeRF, 3DGS, SLAM, point clouds, depth estimation), embodied AI and robotics (navigation, manipulation, sim-to-real transfer), autonomous driving perception, spatial computing (AR/VR/XR + AI), AI-driven 3D content creation (text/image-to-3D, generative geometry/textures), and physical simulation with AI. Apply the bonus when the core contribution lies at this intersection, not merely as a tangential mention.
 """
 
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
